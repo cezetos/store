@@ -7,5 +7,6 @@ namespace Store.Web.Models
 {
     public class JerseyNumber
     {
+        ///asdasdasdd
     }
 }
